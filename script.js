@@ -1,0 +1,1 @@
+document.getElementById("line").style.color = "red";
